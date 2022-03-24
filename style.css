@@ -27,6 +27,11 @@ p {
     padding: 3px;
 }
 
+footer {
+    padding: 3px;
+    font-weight: bold;
+}
+
 #WPI{
     /*center the image*/
     display: block; 
