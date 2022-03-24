@@ -3,6 +3,7 @@ header {
     font-weight: bold condensed;
     color: #AC2B37; 
     font-size: 25px;
+    padding: 3px;
 }
 
 h1 {
@@ -10,9 +11,18 @@ h1 {
     font-weight: bold;
     color: #AC2B37;
     font-size: 28px;
+    padding: 4px;
 }
 
 body {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 14px;
+}
+
+#content {
+    padding:3px;
+}
+
+p {
+    padding: 3px;
 }
